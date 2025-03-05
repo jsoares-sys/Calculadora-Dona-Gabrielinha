@@ -10,8 +10,6 @@ public class Calculos {
 
     Scanner scanner = new Scanner(System.in);
 
-    //Método para calcular o preço total
-
 
     public void calcularPrecoTotal() {
 
@@ -27,7 +25,7 @@ public class Calculos {
 
     }
 
-    //Método para calcular troco
+    
 
     public void calcularTroco(){
 
