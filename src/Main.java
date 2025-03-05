@@ -33,7 +33,7 @@ public static void calcular(){
                 System.out.println("Saindo do sistema...");
                 break;
             default:
-                System.out.println("Opção inválida!");
+                System.out.println("Opção inválida, tente novamente!");
                 break;
 
         }
